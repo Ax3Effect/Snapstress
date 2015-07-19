@@ -1,0 +1,4 @@
+{ Filter = { Bundles = ( "com.vk.snapster.production" );
+Executables = ("Snapster");
+Mode = "Any";
+}; }

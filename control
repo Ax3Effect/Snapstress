@@ -1,0 +1,14 @@
+Package: ru.precisef0x.snapstress
+Name: Snapstress
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Save photos from Snapster
+ Snapstress is a Cydia Substrate tweak that allows you to save photos from feed and profile pages while using Snapster App.
+ 
+ Saves the highest quality available.
+ 
+ No options to configure.
+Maintainer: Ilya Kambarov <admin@onescript.ru>
+Author: Ilya Kambarov <admin@onescript.ru>
+Section: Tweaks
