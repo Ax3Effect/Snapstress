@@ -1,4 +1,5 @@
 # Snapstress
-A Cydia Substrate tweak that allows you to save photos from feed and profile pages.
+A Cydia Substrate tweak for Snapster App that allows you to save photos from feed and profile pages.
 
-•Build with Theos
+• Compatible with Snapster v1.0
+• Build with Theos
